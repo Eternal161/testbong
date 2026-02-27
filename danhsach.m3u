@@ -3,5 +3,13 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RB630XK/Screenshot-2026-02-27-184828.png" group-title="Moi PP", Trực tiếp Tampines Rovers FC vs Hougang United FC - Singapore League
 https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0YS0kN7/Screenshot_2026_02_27_192510.png" group-title="Moi PP", Trực tiếp PSBS Biak vs PSIM Yogyakarta - Indonesia Liga 1
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 group-title="Moi PP", Trực tiếp Verona U20 vs Parma U20 - Italian Campionato Nazionale Primavera
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0YS0kN7/Screenshot_2026_02_27_192510.png" group-title="Moi PP", Trực tiếp Wolves vs Aston Villa - English Premier League
 https://auto.cdnok9.com/live/sd-6MvYrF2LkvNYnXKVB2/playlist.m3u8
+
+
