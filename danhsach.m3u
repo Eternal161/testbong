@@ -1,4 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Trực Tiếp", Kênh Thể Thao 1
+#EXTINF:-1 group-title="Bún Chả TV", Kênh Thể Thao 1
 https://cdn-hls.taoxanh.biz/live/69a1623e70a65_97670/index.m3u8?expire=1772788926&sign=a8db3bef0b745f4387832262dc6b9df0
+#EXTINF:-1 group-title="Bún Chả TV", Kênh Thể Thao 
+https://cdn-tvc.taoxanh.biz/web-live/MAN_N.mp4
