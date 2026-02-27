@@ -1,6 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Bún Chả TV", Kênh Thể Thao 1
-https://cdn-hls.taoxanh.biz/live/69a1623e70a65_97670/index.m3u8?expire=1772788926&sign=a8db3bef0b745f4387832262dc6b9df0
-#EXTINF:-1 group-title="Bún Chả TV", Kênh Thể Thao 
-https://cdn-tvc.taoxanh.biz/web-live/MAN_N.mp4
+#EXTINF:-1 tvg-logo="https://drive.google.com/drive/folders/1SQdE7MqgofcD01jA_TnPh6VUHD0z2qM4?usp=sharing" group-title="Lương ", Trực tiếp Tampines Rovers FC vs Hougang United FC - Singapore League
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
